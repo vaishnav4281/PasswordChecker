@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PasswordChecker/static/css/main.ff11ac40.css",
+    "main.js": "/PasswordChecker/static/js/main.810324f6.js",
+    "index.html": "/PasswordChecker/index.html",
+    "main.ff11ac40.css.map": "/PasswordChecker/static/css/main.ff11ac40.css.map",
+    "main.810324f6.js.map": "/PasswordChecker/static/js/main.810324f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff11ac40.css",
+    "static/js/main.810324f6.js"
+  ]
+}
